@@ -3,11 +3,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=soya111&count_private=true&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soya111" />
-</a>
-
-<a href="https://lin.ee/9EoVmJf"><img src="https://scdn.line-apps.com/n/line_add_friends/btn/ja.png" alt="友だち追加" height="36" border="0"></a>
 
 <!--
 **soya111/soya111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
